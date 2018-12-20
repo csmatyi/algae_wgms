@@ -20,3 +20,9 @@ The image file algae_wgms_heatmap.jpg depicts a heat map of the Pearson CC value
 The heat map depicts a square matrix, meaning that a CC value is depicted for each pair of species. 
 The CC values range from 0 to 1, with lower CC values in lighter, yellowish colors, and higher CC values in
 reddish colors.
+
+References
+
+1.	Cserháti M, Turóczy Z, Dudits D, Györgyey J. The rice word landscape: a detailed catalogue of the rice motif content in the non-coding regions. OMICS 2012;16(6);334-42.
+2.	Cserhati M. Motif content comparison between monocot and dicot species. Genom Data 2015;3:128-36.
+3.	Cserhati M, Mooter ME, Peterson L, Xiao P, Pauley M, Guda C. Motifome comparison between modern human, Neanderthal and Denisova, BMC Genomics 2018;19(1):472. doi: 10.1186/s12864-018-4710-1.
